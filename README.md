@@ -20,9 +20,6 @@ Implementation scope: This is a frontend-only solution. Task creation, retrieval
    Preserve filters: Assignee and status selections live in a shared, non-`autoDispose` Riverpod provider, so returning from Task Detail or Add Task retains the previously selected filters while the application remains open.
 5. Bug Hunt
    Bug 1 — Data insertion problem later identified the real problem causing in model class and fixed it
-
-
-These two entries must be completed from the assignment's debugging question; the bug descriptions were not included in the requirements shared here. Do not submit the placeholders as final answers.
 6. AI Usage
    I used ChatGPT to generate the README file and get help building the task filtering section (assignee and status filters).
 
