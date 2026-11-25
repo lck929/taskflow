@@ -22,5 +22,3 @@ Implementation scope: This is a frontend-only solution. Task creation, retrieval
    Bug 1 — Data insertion problem later identified the real problem causing in model class and fixed it
 6. AI Usage
    I used ChatGPT to generate the README file and get help building the task filtering section (assignee and status filters).
-
-Manual verification: [Add the specific checks or changes you personally performed before submission.]
